@@ -142,4 +142,4 @@ def decode(filename:str)->str:
     return ''.join(string)
 
 
-print(decode("new.ascs"))
+print(decode(input("Enter the file name: ")))
