@@ -143,6 +143,6 @@ def decode(filename:str)->str:
 
 file = input("Enter the .ascs file: ")
 if file.endswith(".ascs"):
-    print(decode("new.ascs"))
+    print(decode(file))
 else:
     print("ERROR: Not a AsciiScript File!")
