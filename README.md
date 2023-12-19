@@ -1,6 +1,6 @@
 # **AsciiScript: An ASCII-Based Esoteric Coding Language**
 
-AsciiScript is a nascent esoteric programming language currently under development. It embraces the simplicity and immediacy of ASCII characters, crafting them into a unique code canvas. If you're drawn to the unconventional and enjoy pushing the boundaries of programming, AsciiScript awaits.
+AsciiScript is a nascent esoteric programming language that is being built on top of Python Programming Language which is currently under development. It embraces the simplicity and immediacy of ASCII characters, crafting them into a unique code canvas. If you're drawn to the unconventional and enjoy pushing the boundaries of programming, AsciiScript awaits.
 
 **Key Features**
 -
@@ -66,6 +66,7 @@ AsciiScript is in its early stages of development. The syntax and semantics are 
 
 **Getting Started**
 -
+- Download Python if you don't have it already.
 - Clone this Repo
 - Run the `interpreter.py` file
 - When it asks you for the filename, give the path to the AsciiScript file you have created while maintaining the provided rules.
